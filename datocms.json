@@ -6,6 +6,6 @@
   "deploymentType": "static",
   "buildCommand": "yarn build",
   "datocmsApiTokenEnvName": "DATO_API_TOKEN",
-  "buildDirectory": "public",
+  "buildDirectory": "private",
   "livePreviewUrl": "https://adoring-carson-24f43a.netlify.com/"
 }
